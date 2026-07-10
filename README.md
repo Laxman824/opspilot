@@ -10,11 +10,9 @@ matters.
 > remediation plan and justifies every step; deterministic guardrails keep it inside
 > policy; everything it thinks is auditable on screen.
 
-| | |
-|---|---|
-| 🔗 Live demo | `<https://opspilot-autonomous-agent.streamlit.app/>` |
-| 🎥 Video walkthrough | `<link, ≤3 min>` |
-| 🧰 Stack | Python · Streamlit · Gemini 2.5 Flash (structured output, free tier) · SQLite |
+| 🔗 Live demo | [Open demo](https://opspilot-autonomous-agent.streamlit.app/) |
+| 🎥 Video walkthrough | [Watch video](https://drive.google.com/file/d/1Acc_wEMzJjkyQ0AM__NfhNg2XImp9mhL/view?usp=sharing) |
+
 
 ---
 
