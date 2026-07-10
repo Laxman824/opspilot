@@ -1,7 +1,7 @@
 # 🛰️ OpsPilot — Agentic Request Triage & Remediation
 
 **A proof-of-concept for the Incoming Request Processing Workflow brief** — an AI system
-that receives customer requests, classifies them by type and urgency, and executes a
+that receives customer requests through Emails, classifies them by type and urgency, and executes a
 distinct multi-step remediation workflow per type, with a human in the loop where it
 matters.
 
