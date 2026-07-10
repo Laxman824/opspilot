@@ -12,7 +12,7 @@ matters.
 
 | | |
 |---|---|
-| 🔗 Live demo | `<your Streamlit Cloud URL>` |
+| 🔗 Live demo | `<https://opspilot-autonomous-agent.streamlit.app/>` |
 | 🎥 Video walkthrough | `<link, ≤3 min>` |
 | 🧰 Stack | Python · Streamlit · Gemini 2.5 Flash (structured output, free tier) · SQLite |
 
